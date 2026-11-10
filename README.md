@@ -152,7 +152,7 @@ goal:      Become a skilled software engineer
 
 <br/><br/>
 
-<i>⭐ If you like my work, drop a star and follow along on my learning journey!</i>
+<i>Discipline is the bridge between goals and accomplishment.</i>
 
 </div>
 
