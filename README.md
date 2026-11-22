@@ -133,7 +133,7 @@ goal:      Become a skilled software engineer
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+<img src="https://github.com/Vivekthorat-2009/Js_Tutorial" alt="Dev quote"/>
 
 </div>
 
