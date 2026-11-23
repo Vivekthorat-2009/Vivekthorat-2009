@@ -1,14 +1,14 @@
-<!-- ============ HEADER BANNER (animated waving) ============ -->
+
+<!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=240&section=header&text=Vivek%20Thorat&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Student&descAlignY=56&descSize=18&descColor=c9d1d9" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,25:1e1b4b,55:4c1d95,80:312e81,100:09090f&height=260&section=header&text=Vivek%20Thorat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20CSE%20STUDENT&descAlignY=55&descSize=17&descColor=c4b5fd" width="100%" alt="Profile Banner"/>
 
-<!-- Typing animation -->
 <a href="https://github.com/Vivekthorat-2009">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vivek+Kailas+Thorat;Java+Backend+Developer+in+the+making+%E2%98%95;Building+REST+APIs+with+Spring+Boot+%F0%9F%8C%B1;Exploring+AI+%26+ML+fundamentals+%F0%9F%A4%96;Turning+ideas+into+real+applications+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Vivek+Kailas+Thorat;Java+Backend+Developer+in+the+making+%E2%98%95;Building+REST+APIs+with+Spring+Boot;Exploring+AI+%26+ML+fundamentals+%F0%9F%A4%96;Turning+ideas+into+real+applications+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Vivekthorat-2009&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Vivekthorat-2009?label=Followers&style=for-the-badge&color=302b63&logo=github" alt="Followers"/>
@@ -61,11 +61,11 @@ goal:      Become a skilled software engineer
 
 | | |
 |:--|:--|
-| **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,c,cpp,js,mysql" alt="languages"/> |
-| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="frontend"/> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="backend"/> |
-| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="database"/> |
-| **🧰 Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="tools"/> |
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=java,c,cpp,js,mysql" alt="Languages"/> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend"/> |
+| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database"/> |
+| **🧰 Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Tools"/> |
 
 </div>
 
@@ -92,6 +92,7 @@ goal:      Become a skilled software engineer
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vivekthorat-2009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub stats"/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekthorat-2009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
 
 <br/>
@@ -102,53 +103,16 @@ goal:      Become a skilled software engineer
 
 <br/>
 
-<!-- ============ PROJECTS ============ -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Vivekthorat-2009/Login-page-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivekthorat-2009&repo=Login-page-&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="Login-page-"/>
-</a>
-<a href="https://github.com/Vivekthorat-2009/JAVA_SCRIPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivekthorat-2009&repo=JAVA_SCRIPT&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="JAVA_SCRIPT"/>
-</a>
-
-</div>
-
-<details>
-<summary><b>🔍 More about my projects</b></summary>
-<br/>
-
-- 🔐 **Login-page-** — a basic login page built with **C++**, still being improved
-- 📜 **JAVA_SCRIPT** — my JavaScript learning playground
-- 🍽️ **Restaurant-Cafe-Website** — a forked HTML project I'm learning from
-
-> 💡 Next up: a **Spring Boot REST API** project. Stay tuned!
-
-</details>
-
-<br/>
-
-
-<div align="center">
-
-<img src="https://github.com/Vivekthorat-2009/Js_Tutorial" alt="Dev quote"/>
-
-</div>
-
-<br/>
-
 <!-- ============ CONNECT ============ -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Vivekthorat-2009"><img src="https://img.shields.io/badge/GitHub-Vivekthorat--2009-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Add your own links below by removing the comment marks:
-<a href="https://www.linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
--->
+<a href="https://github.com/Vivekthorat-2009">
+<img src="https://img.shields.io/badge/GitHub-Vivekthorat--2009-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Add LinkedIn and Email links when ready -->
 
 <br/><br/>
 
@@ -156,4 +120,4 @@ goal:      Become a skilled software engineer
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,25:1e1b4b,55:4c1d95,80:312e81,100:09090f&height=120&section=footer" width="100%" alt="Footer"/>
