@@ -1,8 +1,9 @@
-
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,25:1e1b4b,55:4c1d95,80:312e81,100:09090f&height=260&section=header&text=Vivek%20Thorat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20CSE%20STUDENT&descAlignY=55&descSize=17&descColor=c4b5fd" width="100%" alt="Profile Banner"/>
+<img src="assets/BANNER.jpg" width="100%" alt="ban"/>
+
+<br/>
 
 <a href="https://github.com/Vivekthorat-2009">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Vivek+Kailas+Thorat;Java+Backend+Developer+in+the+making+%E2%98%95;Building+REST+APIs+with+Spring+Boot;Exploring+AI+%26+ML+fundamentals+%F0%9F%A4%96;Turning+ideas+into+real+applications+%F0%9F%9A%80" alt="Typing SVG"/>
