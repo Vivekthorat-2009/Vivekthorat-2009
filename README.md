@@ -86,22 +86,49 @@ goal:      Become a skilled software engineer
 
 <br/>
 
+
+
+
 <!-- ============ GITHUB STATS ============ -->
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vivekthorat-2009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub stats"/>
+<!-- Main Stats + Top Languages -->
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img width="100%"
+src="https://github-readme-stats.vercel.app/api?username=Vivekthorat-2009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=21600"
+alt="GitHub Stats"/>
+</td>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekthorat-2009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
+<td width="50%" align="center">
+<img width="100%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekthorat-2009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c9d1d9&langs_count=8"
+alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Vivekthorat-2009&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" alt="GitHub streak"/>
+<!-- Contribution Streak -->
+<img width="90%"
+src="https://streak-stats.demolab.com?user=Vivekthorat-2009&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa"
+alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekthorat-2009&bg_color=0f0c29&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Activity"
+alt="Contribution Activity Graph"/>
 
 </div>
 
-<br/>
+<!-- ============ END GITHUB STATS ============ -->
+
 
 <!-- ============ CONNECT ============ -->
 ## 🤝 Let's Connect
