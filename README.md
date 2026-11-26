@@ -1,5 +1,4 @@
-this is banner i want it to add on my git hub vivek thorat name background this is my code and you can give me two option one of my choice and another of your choice
-code=
+
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
